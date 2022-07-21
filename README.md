@@ -7,19 +7,17 @@
 
 - 🔭 I’m currently working on [My portfolio](Soon!)
 
-- 🌱 I’m currently learning **Typescript, NodeJS and Python**
+- 🌱 I’m currently learning **Typescript and NodeJS **
 
 - 👯 I’m looking to collaborate on **Any project that i can be useful**
-
-- 👨‍💻 All of my projects are available at [Soon!](Soon!)
 
 - 💬 Ask me about **JavaScript and React**
 
 - 📫 How to reach me **aubisst@gmail.com**
 
-- 📄 Know about my experiences [I have no experience yet, but I'm looking for opportunities](I have no experience yet, but I'm looking for opportunities)
+- 📄 Know about my experiences: I have no enterprise experience yet, but I'm looking for opportunities
 
-- ⚡ Fun fact **I love videogames**
+- ⚡ Fun fact **I love videogames and eating. You can ask me anything about this **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
