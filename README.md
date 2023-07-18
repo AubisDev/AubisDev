@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **JavaScript and React**
 
-- 📫 How to reach me **aubisst@gmail.com**
+- 📫 How to reach me **aubisdev@gmail.com**
 
 - 📄 Know about my experiences: I have no enterprise experience yet, but I'm looking for opportunities
 
-- ⚡ Fun fact **I love videogames and eating. You can ask me anything about this **
+- ⚡ Fun fact **I love videogames, mostly competitive ones. You can ask me anything about this **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
